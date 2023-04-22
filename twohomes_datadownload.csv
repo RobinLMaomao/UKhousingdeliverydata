@@ -1,0 +1,341 @@
+﻿Figure 20: Interactive map showing where people with a second address usually live,
+"People with a second address by reason for second address as a proportion of usual residents in local authorities in England and Wales, 2021",
+,
+Notes:,
+"1. In order to protect against disclosure of personal information, records have been swapped between different geographic areas and counts perturbed by small amounts. Small counts at the lowest geographies will be most affected.",
+2. 'Other' includes those who reported an armed forces base as a second address,
+Units: number and percent,
+Source: Office for National Statistics - Census 2021,
+,
+Local authority name,Total (% of usual residents)
+Hartlepool,3.48
+Middlesbrough,4.13
+Redcar and Cleveland,3.25
+Stockton-on-Tees,3.82
+Darlington,3.7
+County Durham,6.02
+Northumberland,4.04
+Newcastle upon Tyne,12.27
+North Tyneside,3.75
+South Tyneside,3.38
+Sunderland,3.45
+Gateshead,3.69
+Halton,3.23
+Warrington,4.37
+Blackburn with Darwen,3.04
+Blackpool,3.4
+Cheshire East,4.89
+Cheshire West and Chester,5.33
+Allerdale,3.72
+Barrow-in-Furness,3.96
+Carlisle,4.32
+Copeland,3.91
+Eden,3.9
+South Lakeland,5.87
+Burnley,3.51
+Chorley,4.25
+Fylde,4.85
+Hyndburn,3.48
+Lancaster,11.04
+Pendle,3.32
+Preston,6.63
+Ribble Valley,5.33
+Rossendale,3.9
+South Ribble,4
+West Lancashire,8.04
+Wyre,4.6
+Bolton,3.45
+Bury,3.79
+Manchester,9.44
+Oldham,2.79
+Rochdale,3.05
+Salford,5.9
+Stockport,4.07
+Tameside,3.3
+Trafford,4.42
+Wigan,3.58
+Knowsley,2.4
+Liverpool,9
+St. Helens,3.34
+Sefton,3.37
+Wirral,3.49
+"Kingston upon Hull, City of",4.92
+East Riding of Yorkshire,4.19
+North East Lincolnshire,3.54
+North Lincolnshire,3.7
+York,12.06
+Craven,4.65
+Hambleton,4.47
+Harrogate,6.16
+Richmondshire,6.82
+Ryedale,4.56
+Scarborough,4.31
+Selby,4.05
+Barnsley,3.6
+Doncaster,3.38
+Rotherham,3.27
+Sheffield,8.12
+Bradford,3.31
+Calderdale,4.01
+Kirklees,4.28
+Leeds,7.78
+Wakefield,3.64
+Derby,5
+Leicester,7.12
+Rutland,8.96
+Nottingham,15.1
+North Northamptonshire,3.89
+West Northamptonshire,4.84
+Amber Valley,3.77
+Bolsover,3.38
+Chesterfield,3.76
+Derbyshire Dales,4.72
+Erewash,3.5
+High Peak,4.55
+North East Derbyshire,3.62
+South Derbyshire,4.19
+Blaby,3.58
+Charnwood,10.22
+Harborough,4.67
+Hinckley and Bosworth,4
+Melton,4.54
+North West Leicestershire,4.63
+Oadby and Wigston,5.58
+Boston,3.12
+East Lindsey,3.48
+Lincoln,13.97
+North Kesteven,4.58
+South Holland,3.11
+South Kesteven,4.29
+West Lindsey,3.96
+Ashfield,3.14
+Bassetlaw,3.72
+Broxtowe,5.93
+Gedling,3.63
+Mansfield,3.4
+Newark and Sherwood,4.32
+Rushcliffe,6.23
+"Herefordshire, County of",4.27
+Telford and Wrekin,4.51
+Stoke-on-Trent,4.19
+Shropshire,5
+Cannock Chase,3.2
+East Staffordshire,3.71
+Lichfield,4.2
+Newcastle-under-Lyme,6.92
+South Staffordshire,3.7
+Stafford,4.34
+Staffordshire Moorlands,3.63
+Tamworth,3.09
+North Warwickshire,3.55
+Nuneaton and Bedworth,3.41
+Rugby,4.49
+Stratford-on-Avon,4.88
+Warwick,9.15
+Bromsgrove,4.47
+Malvern Hills,4.95
+Redditch,3.2
+Worcester,6.24
+Wychavon,4.04
+Wyre Forest,3.76
+Birmingham,5.39
+Coventry,7.89
+Dudley,3.03
+Sandwell,2.38
+Solihull,3.84
+Walsall,2.65
+Wolverhampton,3.26
+Peterborough,3.57
+Luton,3.35
+Southend-on-Sea,3.61
+Thurrock,3.16
+Bedford,4.18
+Central Bedfordshire,3.91
+Cambridge,19.58
+East Cambridgeshire,4.29
+Fenland,3.27
+Huntingdonshire,4.1
+South Cambridgeshire,4.9
+Basildon,3.05
+Braintree,3.55
+Brentwood,4.03
+Castle Point,2.73
+Chelmsford,4.38
+Colchester,6.74
+Epping Forest,4.02
+Harlow,3.08
+Maldon,3.9
+Rochford,3.32
+Tendring,3.09
+Uttlesford,4.96
+Broxbourne,2.96
+Dacorum,4.22
+Hertsmere,4.48
+North Hertfordshire,4.2
+Three Rivers,4.39
+Watford,3.81
+Breckland,3.55
+Broadland,3.65
+Great Yarmouth,3.22
+King's Lynn and West Norfolk,3.81
+North Norfolk,4.36
+Norwich,12.04
+South Norfolk,4.53
+Babergh,4.34
+Ipswich,3.97
+Mid Suffolk,4.08
+St Albans,4.89
+Welwyn Hatfield,8.42
+East Hertfordshire,4.7
+Stevenage,3.56
+East Suffolk,4.3
+West Suffolk,4.13
+City of London,19.13
+Barking and Dagenham,3.04
+Barnet,5.19
+Bexley,3.4
+Brent,5.2
+Bromley,4.02
+Camden,13.3
+Croydon,3.64
+Ealing,5.23
+Enfield,3.44
+Greenwich,5.02
+Hackney,5.74
+Hammersmith and Fulham,11.24
+Haringey,5.75
+Harrow,4.34
+Havering,3.06
+Hillingdon,4.6
+Hounslow,4.89
+Islington,9.75
+Kensington and Chelsea,17.74
+Kingston upon Thames,6.56
+Lambeth,7.36
+Lewisham,5.14
+Merton,5.22
+Newham,4.59
+Redbridge,3.57
+Richmond upon Thames,7.55
+Southwark,8.3
+Sutton,3.53
+Tower Hamlets,7.54
+Waltham Forest,3.9
+Wandsworth,8.73
+Westminster,14.8
+Medway,3.95
+Bracknell Forest,5.21
+West Berkshire,5.5
+Reading,8.73
+Slough,3.18
+Windsor and Maidenhead,6.67
+Wokingham,5.21
+Milton Keynes,4.05
+Brighton and Hove,10.44
+Portsmouth,9.38
+Southampton,9.63
+Isle of Wight,4.16
+Buckinghamshire,4.85
+Eastbourne,4.84
+Hastings,3.89
+Lewes,4.24
+Rother,4.31
+Wealden,4.51
+Basingstoke and Deane,4.26
+East Hampshire,4.68
+Eastleigh,3.79
+Fareham,4.23
+Gosport,4.21
+Hart,5.15
+Havant,3.32
+New Forest,4.28
+Rushmoor,4.32
+Test Valley,4.44
+Winchester,9.66
+Ashford,3.87
+Canterbury,12.11
+Dartford,3.2
+Dover,4.43
+Gravesham,3.29
+Maidstone,3.98
+Sevenoaks,4.49
+Folkestone and Hythe,4.28
+Swale,3.44
+Thanet,3.82
+Tonbridge and Malling,4.28
+Tunbridge Wells,5.4
+Cherwell,4.49
+Oxford,20.47
+South Oxfordshire,5.42
+Vale of White Horse,5.76
+West Oxfordshire,5.82
+Elmbridge,5.76
+Epsom and Ewell,4.99
+Guildford,11.52
+Mole Valley,4.77
+Reigate and Banstead,4.55
+Runnymede,10.62
+Spelthorne,3.75
+Surrey Heath,4.71
+Tandridge,5.3
+Waverley,7.18
+Woking,4.56
+Adur,3.61
+Arun,4
+Chichester,7.52
+Crawley,3.54
+Horsham,5.03
+Mid Sussex,4.7
+Worthing,3.84
+Bath and North East Somerset,12.24
+"Bristol, City of",9.53
+North Somerset,4.29
+South Gloucestershire,5.19
+Plymouth,7.39
+Torbay,3.66
+Swindon,3.85
+Cornwall,4.89
+Isles of Scilly,8.38
+Wiltshire,5.33
+"Bournemouth, Christchurch and Poole",6.64
+Dorset,4.81
+East Devon,4.17
+Exeter,15.93
+Mid Devon,3.87
+North Devon,3.93
+South Hams,5.32
+Teignbridge,3.9
+Torridge,3.79
+West Devon,4.47
+Cheltenham,7.5
+Cotswold,6.64
+Forest of Dean,4.75
+Gloucester,4.63
+Stroud,4.61
+Tewkesbury,4.15
+Mendip,5.51
+Sedgemoor,4.03
+South Somerset,4.72
+Somerset West and Taunton,4.83
+Isle of Anglesey,3.94
+Gwynedd,7.53
+Conwy,3.91
+Denbighshire,3.72
+Flintshire,3.57
+Wrexham,3.74
+Ceredigion,10.21
+Pembrokeshire,4.04
+Carmarthenshire,3.67
+Swansea,7.53
+Neath Port Talbot,4.81
+Bridgend,3.48
+Vale of Glamorgan,4.63
+Cardiff,10.51
+Rhondda Cynon Taff,4.24
+Caerphilly,3.47
+Blaenau Gwent,2.72
+Torfaen,3.12
+Monmouthshire,4.3
+Newport,3.44
+Powys,4.21
+Merthyr Tydfil,3.04
